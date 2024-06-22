@@ -1,10 +1,6 @@
 // IN2011 Computer Networks
 // Coursework 2023/2024
-//
-// Submission by
-// Abdul Rahmatzada
-// 220004497
-// abdul.rahmatzada@city.ac.uk
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
