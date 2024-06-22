@@ -26,7 +26,9 @@ To run the 2D#4 nodes, follow these steps:
 
 2. Build the project:
 
-3. Compile and run the 'LocalNetworkSimulator' class with the desired IP address, starting port number, and the number of full nodes:
+3. Compile all the classes javac *.java
+
+4. Run the 'LocalNetworkSimulator' class with the desired IP address, starting port number, and the number of full nodes:
 
 ## Testing
 
