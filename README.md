@@ -34,6 +34,8 @@ To run the 2D#4 nodes, follow these steps:
 
 The repository includes test programs (`CmdLineFullNode`, `CmdLineStore`, `CmdLineGet`) that demonstrate how to use the `FullNode` and `TemporaryNode` objects. You can use these programs to test your implementation and verify its functionality.
 
+![](Images/2dh4.png)
+
 ## Acknowledgements
 
 The 2D#4 protocol and implementation are based on the coursework assignment for the IN2011 Computer Networks module at City, University of London.
